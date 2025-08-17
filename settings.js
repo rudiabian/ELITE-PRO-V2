@@ -25,7 +25,7 @@ global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.
 //DEFAULT SETTINGS//
 global.hituet = 0
 global.typemenu = 'v1' // v1, v2 too v9
-global.typereply = 'v2' // v1, v2 and v3
+global.typereply = 'v1' // v1, v2 and v3
 global.autoblocknumber = '92' //autoblock country
 global.antiforeignnumber = '91' //anti foreign number
 // TOGGLE CMDS: Enable=true Disable=false
@@ -39,10 +39,10 @@ global.autoreact = false //React to messages
 //DEFAULT SETTINGS 3//
 global.mess = {
     limit: 'Your limit is up!',
-    nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable it',
-    done: 'Done✓',
-    error: 'Error!',
-    success: 'Here you go!'
+    nsfw: 'Nsfw is disabled in this group, malu cok..',
+    done: 'sudah ni ya Done✓',
+    error: 'salah cok!',
+    success: ' weeeee dah jadi ooo!'
 }
 
 global.thumb = fs.readFileSync('./EliteProMedia/theme/elitepro.jpg')
